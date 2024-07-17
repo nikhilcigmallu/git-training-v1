@@ -4,3 +4,4 @@ if (n <= 10):
 else:
     print("HI")
 print("1st modification")
+print("Day 2 on GIT")
